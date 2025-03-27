@@ -50,8 +50,8 @@ pip install requests BeautifulSoup4
 
 | 变量名 | 说明 | 默认值 |
 | --- | --- | --- |
-| IKUUU_USERNAME | ikuuu 账号 | shuye_886@163.com |
-| IKUUU_PASSWORD | ikuuu 密码 | qwe123.. |
+| IKUUU_USERNAME | ikuuu 账号 | xxxx |
+| IKUUU_PASSWORD | ikuuu 密码 | xxxx |
 
 如果您不设置这些环境变量，脚本将使用默认值。
 
